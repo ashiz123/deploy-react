@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         
+         This is ashiz app
         </a>
       </header>
     </div>
